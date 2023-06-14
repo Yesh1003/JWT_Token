@@ -1,0 +1,5 @@
+jwt:
+  secret: Yesh
+
+server:
+  port: 8080
